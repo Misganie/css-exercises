@@ -1,0 +1,13 @@
+/* styles.css */
+.secondelem {
+    background-color: yellow;
+}
+.firstelem {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.firstelem, .secondelem {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
